@@ -1,0 +1,2 @@
+# industrial_defect_detection
+利用深度學習做到工業瑕疵品檢測
