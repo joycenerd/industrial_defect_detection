@@ -1,0 +1,2 @@
+conda install pytorch==1.5.1 torchvision==0.6.1 cudatoolkit=10.2 -c pytorch
+conda install pandas
