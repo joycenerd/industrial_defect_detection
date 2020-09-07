@@ -10,45 +10,13 @@ First we classify the defect into 6 categories: 1 normal and 6 different defects
 
 ## Result
 
-<div class="row">
-  <div class="column">
-    <img src="./image/valid_00326_class1.png" style="width:100%" />
-    <span class="caption">Defect1: void</span>
-  </div>
-  <div class="column">
-    <img src="./image/valid_00325_class2.png" style="width:100%" />
-    <span class="caption">Defect2: horizontal</span>
-  </div>
-  <div class="column">
-    <img src="./image/valid_00384_class3.png" style="width:100%" />
-    <span class="caption">Defect3: vertical</span>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="./image/valid_00770_class4.png" style="width:100%" />
-    <span class="caption">Defect4: edge</span>
-  </div>
-  <div class="column">
-    <img src="./image/valid_00081_class5.png" style="width:100%" />
-    <span class="caption">Defect5: particle</span>
-  </div>
-  <div class="column">
-    <img src="./image/valid_00086.png" style="width:100%" />
-    <span class="caption">Normal</span>
-  </div>
-</div>
-
-<style type="text/css">
-
-div{
-    display:flex;
-    justify-content:space-between;
-}
-div.column{
-    vertical-align:top;
-    display: inline-block;
-    text-align: center;
-    width: 150px
-}
+<img src="./image/valid_00326_class1.png" style="width:100%" />
+<span class="caption">Defect1: void</span>
+<img src="./image/valid_00325_class2.png" style="width:100%" />
+<span class="caption">Defect2: horizontal</span>
+<img src="./image/valid_00384_class3.png" style="width:100%" />
+<span class="caption">Defect3: vertical</span>
+<img src="./image/valid_00770_class4.png" style="width:100%" />
+<span class="caption">Defect4: edge</span>
+ <img src="./image/valid_00081_class5.png" style="width:100%" />
+<span class="caption">Defect5: particle</span>
