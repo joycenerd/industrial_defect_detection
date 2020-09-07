@@ -1,3 +1,7 @@
+'''
+Generate CSV file for train and validation data
+'''
+
 import pandas as pd
 import os
 from pathlib import Path

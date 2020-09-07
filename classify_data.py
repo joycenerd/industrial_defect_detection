@@ -1,3 +1,7 @@
+'''
+classify data to 6 classes: 1 normal and 5 different defects
+'''
+
 from pathlib import Path
 import csv
 import os
